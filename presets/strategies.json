@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Golden Cross (NIFTY)",
+    "description": "Buy when 50-day SMA crosses above 200-day SMA. Sell when RSI goes above 70. Use 5% stop loss.",
+    "ticker": "^NSEI"
+  },
+  {
+    "name": "Fast Momentum",
+    "description": "Buy when 20-day SMA crosses above 50-day SMA. Sell when RSI goes above 65.",
+    "ticker": "^NSEI"
+  },
+  {
+    "name": "Conservative RSI Exit",
+    "description": "Buy when 50-day SMA is above 200-day SMA. Sell when RSI goes above 60.",
+    "ticker": "^NSEI"
+  },
+  {
+    "name": "Bitcoin Trend",
+    "description": "Buy when 50-day SMA crosses above 200-day SMA. Sell when RSI goes above 75.",
+    "ticker": "BTC-USD"
+  },
+  {
+    "name": "Reliance Swing",
+    "description": "Buy when 20-day SMA crosses above 50-day SMA. Sell when RSI goes above 70. Use 3% stop loss.",
+    "ticker": "RELIANCE.NS"
+  }
+]
