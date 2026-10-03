@@ -1,6 +1,7 @@
+
 # AI Trading Strategy Backtester
 
-Final Year Project: Natural-Language Trading Strategy Generation and Historical Backtesting
+ Natural-Language Trading Strategy Generation and Historical Backtesting
 
 ## Overview
 
@@ -167,3 +168,7 @@ This project is intended for research and educational use. It demonstrates how l
 - [ ] Parameter sensitivity heatmaps
 - [ ] Safer sandboxed code execution
 - [ ] Persistent experiment history
+=======
+# trading-strategy-backtester
+AI-powered algorithmic trading backtester for generating and evaluating trading strategies using historical market data.
+
